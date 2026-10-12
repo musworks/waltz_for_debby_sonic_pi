@@ -21,7 +21,7 @@ A central part of the process is exploring the balance between reusable generati
 
 ## Development Versions
 
-The repository preserves four separate Ruby source files, documenting different stages and approaches explored during development.
+The repository preserves five separate Ruby source files, documenting different stages and approaches explored during development.
 
 - **`debby_01.rb` — Initial arrangement**  
   An early version built around a `live_loop`, explicit musical phrases, a chord progression, and the `:pretty_bell` and `:sine` synths.
